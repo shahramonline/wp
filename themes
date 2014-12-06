@@ -1,4 +1,0 @@
-<?php the_post_thumbnail('large'); /* Large */ ?>
-<?php the_post_thumbnail('medium'); /* Medium */ ?>
-<?php the_post_thumbnail('thumbnail'); /* Thumbnail */ ?>
-<?php the_post_thumbnail( array (width,height) ); /* Custom size */ ?>
